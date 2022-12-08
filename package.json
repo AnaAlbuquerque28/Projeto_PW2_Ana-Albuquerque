@@ -1,0 +1,33 @@
+{
+  "name": "apilibri",
+  "version": "1.0.0",
+  "description": "API REST PARA GERENCIA DE ROUPAS INFANTIS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "PW2",
+    "ETEC",
+    "BARUERI",
+    "NODEJS"
+  ],
+  "author": "ANA BEATRIZ BEZERRA DE ALBUQUERQUE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaAlbuquerque28/PW2-projeto-api-Ana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnaAlbuquerque28/PW2-projeto-api-Ana/issues"
+  },
+  "homepage": "https://github.com/AnaAlbuquerque28/PW2-projeto-api-Ana#readme"
+}

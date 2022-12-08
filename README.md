@@ -1,2 +1,2 @@
-# Projeto_PW2_Ana-Albuquerque
-projeto api da aula de pw2
+# PW2-projeto-api-LojaInfantil-Ana
+APIREST de uma loja infantil desenvolvida na aula de pw2.
